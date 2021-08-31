@@ -1,0 +1,136 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+/*Header start here*/
+.header{
+	background-color: #EFE9EB;
+	width: 100%;
+	height: 50px;
+}
+img{
+	float: left;
+	margin: 7px 80px;
+	width: 130px;
+}
+ul{
+	float: right;
+	margin-right: 100px; 
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 50px;
+}
+ul li a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+/*ul li a:active{
+	color: red;
+}*/
+#active{
+	color: red;
+}
+
+/*Header end here*/
+
+/* Slide Image start here */
+#slide_img{
+	width: 100%;
+	height: 500px;
+	margin: 0;
+}
+/* Slide Image end here */
+
+/* Description starts here */
+#dec{
+	background-color: #EFE9EB;
+	width: 100%;
+	height: 200px;
+	margin-top: 500px;
+}
+#div{
+	margin: 30px 80px;
+	float: left;
+}
+h1,h2,p{
+	margin: 5px;
+}
+h2,p{
+	color: white;
+}
+#own{
+	text-decoration: underline;
+	font-weight: bold;
+}
+h1{
+	color: red;
+}
+#img{
+	width: 250px;
+	height: 180px;
+	margin-left: 250px;
+	margin-top: 15px;
+}
+/* Description ends here */
+
+/* Footer starts */
+.footer{
+	background-color: #C2C11A;
+	height: 150px;
+}
+#products{
+	float: left;
+	margin-left: 180px;
+}
+#products p{
+	margin-left: 60px;
+	font-weight: bold;
+}
+#one{
+	width: 50px;
+}
+
+
+#our_story{
+	float: left;
+}
+#our_story p{
+	margin-left: 80px;
+	font-weight: bold;
+}
+#two{
+	width: 80px;
+	margin-top: 15px;
+}
+
+
+#flav{
+	float: left;
+}
+#flav p{
+	margin-left: 80px;
+	font-weight: bold;
+}
+#three{
+	width: 70px;
+	height: 55px;
+}
+
+
+#loc{
+	float: left;
+}
+#loc p{
+	margin-left: 80px;
+	font-weight: bold;
+}
+#four{
+	width: 50px;
+	height: 50px;
+	margin-top: 12px;
+	margin-left: 120px;
+}
+/* Footer ends */
